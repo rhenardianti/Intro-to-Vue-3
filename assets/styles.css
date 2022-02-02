@@ -165,7 +165,7 @@ ul {
   list-style-type: none;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
   .container {
     flex-direction: column;
   }
